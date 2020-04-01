@@ -2,3 +2,4 @@ file added
 1st modified
 2nd modified
 branch_1 1st modified using merge
+branch_2 1st modified using rebase
